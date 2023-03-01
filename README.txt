@@ -62,6 +62,7 @@ https://www.jianshu.com/p/d921828bf623
 ## 文件夹说明
 ├─ref    参考文档
 ├─source    通过 .tx 获取的odoo的 PO 翻译文档，并更新，可直接用于 odoo16
+├─source_ent    同上，企业版
 
 ## 获取最新 .po 文件，更新后发布至 transifex
 https://developers.transifex.com/docs/using-the-client
